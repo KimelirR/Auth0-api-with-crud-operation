@@ -17,8 +17,8 @@ Run on
 ```
 php artisan serve 
 ```
-After successful run of our larave application
-Try check on the browser
+After successful run of our laravel application
+Try check this on the browser
 *http://localhost:8000/api/v1/books 
 
 
